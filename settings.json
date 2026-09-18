@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "adlerbblindo.aternos.me",
-    "port": 26951,
+    "ip": "inserirtexto-gWHK.aternos.me",
+    "port": 38060,
     "version": "",
     "try-creative": false
   },
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
